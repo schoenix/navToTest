@@ -1,5 +1,5 @@
 <template>
   <div>
-    NAVTO
+    INDEX
   </div>
 </template>
